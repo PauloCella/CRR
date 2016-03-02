@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CRR</string>
+    <string name="action_settings">Configurações</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_activity_splash">Splash</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_horarios">Horarios</string>
+    <string name="title_activity_controle_aplicacao">ControleAplicacaoActivity</string>
+
+    <string-array name="tipo_repelente_array">
+        <item>Corporal</item>
+        <item>Comodo</item>
+    </string-array>
+    
+</resources>
